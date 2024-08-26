@@ -1,0 +1,45 @@
+# File compilati
+*.class
+
+# Pacchetti
+*.jar
+*.war
+*.ear
+
+# Directory di output del compilatore
+/bin/
+/out/
+/target/
+/build/
+
+# File di configurazione dell'IDE e cartelle
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.settings/
+/.project
+/.classpath
+
+# File di log
+*.log
+
+# Directory Maven
+/log/
+/target/
+
+# File temporanei
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Directory di progetto specifiche di Eclipse
+/.settings/
+/.project
+/.classpath
+
+# Altri file e directory da ignorare
+.DS_Store
+/.vscode/
+*.code-workspace

@@ -1,0 +1,10 @@
+{
+    "title": "Pagina di Esempio",
+    "header": "Questo è un Header",
+    "body": "Questo è il corpo della pagina.",
+    "items": [
+        {"name": "Elemento 1", "description": "Descrizione 1"},
+        {"name": "Elemento 2", "description": "Descrizione 2"},
+        {"name": "Elemento 3", "description": "Descrizione 3"}
+      ]
+  }
